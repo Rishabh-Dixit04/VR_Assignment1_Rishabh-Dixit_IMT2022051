@@ -35,9 +35,6 @@ With the environment activated, install the required dependencies for the projec
 
 ## Part 1: Coin Detection, Segmentation, and Counting using Computer Vision
 
-### Overview
-This section applies computer vision techniques to detect, segment, and count coins from an image containing scattered Indian coins. The implementation is done using **OpenCV** and **Matplotlib** in a Miniconda environment.
-
 ---
 
 ### Input Image:
