@@ -1,6 +1,9 @@
 # Visual-Recognition-Assignment_1
 Using OpenCV for image detection, segmentation and stitching.
 
+### Link to GitHub Repo: [VR_Assignment1_Rishabh-Dixit_IMT2022051](https://github.com/Rishabh-Dixit04/VR_Assignment1_Rishabh-Dixit_IMT2022051)
+
+
 ## Installation and Running Instructions
 ### Step 1: Install Miniconda and Create a Conda Environment
 1. First, install [Miniconda](https://docs.conda.io/en/latest/miniconda.html) if it is not already installed.
